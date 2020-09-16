@@ -1,0 +1,6 @@
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\bin\Debug\OpdrachtLambda.exe.config
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\bin\Debug\OpdrachtLambda.exe
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\bin\Debug\OpdrachtLambda.pdb
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\obj\Debug\OpdrachtLambda.csprojAssemblyReference.cache
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\obj\Debug\OpdrachtLambda.exe
+D:\code\visual studio\c#\oefenPracticums\OefenenCsharp23-01-2020\oefenPracticumToets2\OpdrachtLambda\obj\Debug\OpdrachtLambda.pdb

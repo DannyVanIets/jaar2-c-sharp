@@ -1,0 +1,14 @@
+D:\code\visual studio\lessen\College4a\bin\Debug\College4a.exe.config
+D:\code\visual studio\lessen\College4a\bin\Debug\College4a.exe
+D:\code\visual studio\lessen\College4a\bin\Debug\College4a.pdb
+D:\code\visual studio\lessen\College4a\obj\Debug\MainWindow.g.cs
+D:\code\visual studio\lessen\College4a\obj\Debug\App.g.cs
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a_MarkupCompile.cache
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a_MarkupCompile.lref
+D:\code\visual studio\lessen\College4a\obj\Debug\MainWindow.baml
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.g.resources
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.Properties.Resources.resources
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.csproj.GenerateResource.cache
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.exe
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.pdb
+D:\code\visual studio\lessen\College4a\obj\Debug\College4a.csprojAssemblyReference.cache

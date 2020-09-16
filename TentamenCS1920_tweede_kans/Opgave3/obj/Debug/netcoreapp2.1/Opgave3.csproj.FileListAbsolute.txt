@@ -1,0 +1,20 @@
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.deps.json
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.json
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.dev.json
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.dll
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.pdb
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.csprojAssemblyReference.cache
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfoInputs.cache
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfo.cs
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.dll
+D:\Windesheim\OneDrive - Windesheim Office365\Onderwijs\CSharp\Toetsing\19-20 herkansing\1920_practicum_tweede_kans_student\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.pdb
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.deps.json
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.json
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.dev.json
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.dll
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.pdb
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.csprojAssemblyReference.cache
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfoInputs.cache
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfo.cs
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.dll
+D:\code\visual studio\c#\TentamenCS1920_tweede_kans\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.pdb

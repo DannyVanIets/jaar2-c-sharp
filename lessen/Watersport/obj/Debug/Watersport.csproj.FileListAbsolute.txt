@@ -1,0 +1,7 @@
+D:\code\visual studio\Watersport\bin\Debug\Watersport.exe.config
+D:\code\visual studio\Watersport\bin\Debug\Watersport.exe
+D:\code\visual studio\Watersport\bin\Debug\Watersport.pdb
+D:\code\visual studio\Watersport\obj\Debug\Watersport.csproj.CoreCompileInputs.cache
+D:\code\visual studio\Watersport\obj\Debug\Watersport.exe
+D:\code\visual studio\Watersport\obj\Debug\Watersport.pdb
+D:\code\visual studio\Watersport\obj\Debug\Watersport.csprojAssemblyReference.cache

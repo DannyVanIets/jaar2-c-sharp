@@ -1,0 +1,7 @@
+D:\code\visual studio\College1b\bin\Debug\College1b.exe.config
+D:\code\visual studio\College1b\bin\Debug\College1b.exe
+D:\code\visual studio\College1b\bin\Debug\College1b.pdb
+D:\code\visual studio\College1b\obj\Debug\College1b.csprojAssemblyReference.cache
+D:\code\visual studio\College1b\obj\Debug\College1b.csproj.CoreCompileInputs.cache
+D:\code\visual studio\College1b\obj\Debug\College1b.exe
+D:\code\visual studio\College1b\obj\Debug\College1b.pdb

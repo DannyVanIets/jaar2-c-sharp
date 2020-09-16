@@ -1,0 +1,10 @@
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\obj\Debug\netcoreapp2.2\Watersimulatie.csproj.CoreCompileInputs.cache
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\obj\Debug\netcoreapp2.2\Watersimulatie.AssemblyInfoInputs.cache
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\obj\Debug\netcoreapp2.2\Watersimulatie.AssemblyInfo.cs
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\bin\Debug\netcoreapp2.2\Watersimulatie.deps.json
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\bin\Debug\netcoreapp2.2\Watersimulatie.runtimeconfig.json
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\bin\Debug\netcoreapp2.2\Watersimulatie.runtimeconfig.dev.json
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\bin\Debug\netcoreapp2.2\Watersimulatie.dll
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\bin\Debug\netcoreapp2.2\Watersimulatie.pdb
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\obj\Debug\netcoreapp2.2\Watersimulatie.dll
+C:\D\VS\test_magweg\Watersimulatie\Watersimulatie\obj\Debug\netcoreapp2.2\Watersimulatie.pdb

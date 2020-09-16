@@ -1,0 +1,7 @@
+D:\code\visual studio\boek3.12\bin\Debug\boek3.12.exe.config
+D:\code\visual studio\boek3.12\bin\Debug\boek3.12.exe
+D:\code\visual studio\boek3.12\bin\Debug\boek3.12.pdb
+D:\code\visual studio\boek3.12\obj\Debug\boek3.12.csprojAssemblyReference.cache
+D:\code\visual studio\boek3.12\obj\Debug\boek3.12.csproj.CoreCompileInputs.cache
+D:\code\visual studio\boek3.12\obj\Debug\boek3.12.exe
+D:\code\visual studio\boek3.12\obj\Debug\boek3.12.pdb

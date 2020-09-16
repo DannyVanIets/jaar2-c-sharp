@@ -1,0 +1,6 @@
+D:\code\visual studio\opdracht1e\bin\Debug\opdracht1e.exe.config
+D:\code\visual studio\opdracht1e\bin\Debug\opdracht1e.exe
+D:\code\visual studio\opdracht1e\bin\Debug\opdracht1e.pdb
+D:\code\visual studio\opdracht1e\obj\Debug\opdracht1e.csproj.CoreCompileInputs.cache
+D:\code\visual studio\opdracht1e\obj\Debug\opdracht1e.exe
+D:\code\visual studio\opdracht1e\obj\Debug\opdracht1e.pdb

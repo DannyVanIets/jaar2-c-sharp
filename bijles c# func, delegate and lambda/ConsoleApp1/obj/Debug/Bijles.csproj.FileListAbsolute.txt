@@ -1,0 +1,12 @@
+D:\code\visual studio\bijles c#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\code\visual studio\bijles c#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\code\visual studio\bijles c#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\code\visual studio\bijles c#\ConsoleApp1\obj\Debug\Bijles.csprojAssemblyReference.cache
+D:\code\visual studio\bijles c#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\code\visual studio\bijles c#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\obj\Debug\Bijles.csprojAssemblyReference.cache
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\code\visual studio\c#\bijles c# func, delegate and lambda\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

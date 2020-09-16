@@ -1,0 +1,7 @@
+D:\code\visual studio\boekchapter5\bin\Debug\boekchapter5.exe.config
+D:\code\visual studio\boekchapter5\bin\Debug\boekchapter5.exe
+D:\code\visual studio\boekchapter5\bin\Debug\boekchapter5.pdb
+D:\code\visual studio\boekchapter5\obj\Debug\boekchapter5.csprojAssemblyReference.cache
+D:\code\visual studio\boekchapter5\obj\Debug\boekchapter5.csproj.CoreCompileInputs.cache
+D:\code\visual studio\boekchapter5\obj\Debug\boekchapter5.exe
+D:\code\visual studio\boekchapter5\obj\Debug\boekchapter5.pdb

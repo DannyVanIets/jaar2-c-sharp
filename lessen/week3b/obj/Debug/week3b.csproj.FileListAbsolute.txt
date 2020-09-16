@@ -1,0 +1,7 @@
+D:\code\visual studio\lessen\week3b\bin\Debug\week3b.exe.config
+D:\code\visual studio\lessen\week3b\bin\Debug\week3b.exe
+D:\code\visual studio\lessen\week3b\bin\Debug\week3b.pdb
+D:\code\visual studio\lessen\week3b\obj\Debug\week3b.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\week3b\obj\Debug\week3b.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\week3b\obj\Debug\week3b.exe
+D:\code\visual studio\lessen\week3b\obj\Debug\week3b.pdb

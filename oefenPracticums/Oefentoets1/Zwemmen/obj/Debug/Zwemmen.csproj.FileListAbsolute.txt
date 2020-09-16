@@ -1,0 +1,7 @@
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\bin\Debug\Zwemmen.exe.config
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\bin\Debug\Zwemmen.exe
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\bin\Debug\Zwemmen.pdb
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\obj\Debug\Zwemmen.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\obj\Debug\Zwemmen.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\obj\Debug\Zwemmen.exe
+D:\code\visual studio\lessen\Rooster - student\Zwemmen\obj\Debug\Zwemmen.pdb

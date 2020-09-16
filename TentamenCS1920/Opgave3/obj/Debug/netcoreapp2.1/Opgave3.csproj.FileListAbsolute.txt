@@ -1,0 +1,10 @@
+D:\code\visual studio\TentamenCS1920\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.deps.json
+D:\code\visual studio\TentamenCS1920\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.json
+D:\code\visual studio\TentamenCS1920\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.runtimeconfig.dev.json
+D:\code\visual studio\TentamenCS1920\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.dll
+D:\code\visual studio\TentamenCS1920\Opgave3\bin\Debug\netcoreapp2.1\Opgave3.pdb
+D:\code\visual studio\TentamenCS1920\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.csprojAssemblyReference.cache
+D:\code\visual studio\TentamenCS1920\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfoInputs.cache
+D:\code\visual studio\TentamenCS1920\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.AssemblyInfo.cs
+D:\code\visual studio\TentamenCS1920\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.dll
+D:\code\visual studio\TentamenCS1920\Opgave3\obj\Debug\netcoreapp2.1\Opgave3.pdb

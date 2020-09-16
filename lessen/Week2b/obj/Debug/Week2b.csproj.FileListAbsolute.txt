@@ -1,0 +1,6 @@
+D:\code\visual studio\lessen\Week2b\bin\Debug\Week2b.exe.config
+D:\code\visual studio\lessen\Week2b\bin\Debug\Week2b.exe
+D:\code\visual studio\lessen\Week2b\bin\Debug\Week2b.pdb
+D:\code\visual studio\lessen\Week2b\obj\Debug\Week2b.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\Week2b\obj\Debug\Week2b.exe
+D:\code\visual studio\lessen\Week2b\obj\Debug\Week2b.pdb

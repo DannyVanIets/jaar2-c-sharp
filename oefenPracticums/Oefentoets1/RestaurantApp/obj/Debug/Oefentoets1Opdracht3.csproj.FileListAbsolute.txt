@@ -1,0 +1,6 @@
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\bin\Debug\RestaurantApp.exe
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\bin\Debug\RestaurantApp.pdb
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\obj\Debug\Oefentoets1Opdracht3.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\obj\Debug\RestaurantApp.exe
+D:\code\visual studio\lessen\Oefentoets1\RestaurantApp\obj\Debug\RestaurantApp.pdb

@@ -1,0 +1,6 @@
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\bin\Debug\Week3a.exe.config
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\bin\Debug\Week3a.exe
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\bin\Debug\Week3a.pdb
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\obj\Debug\Week3a.csprojAssemblyReference.cache
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\obj\Debug\Week3a.exe
+D:\code\visual studio\OefenenC-SharpPracticum\Week3a\obj\Debug\Week3a.pdb

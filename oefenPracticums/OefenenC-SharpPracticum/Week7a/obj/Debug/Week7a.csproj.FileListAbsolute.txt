@@ -1,0 +1,5 @@
+D:\code\visual studio\OefenenC-SharpPracticum\Week7a\bin\Debug\Week7a.exe.config
+D:\code\visual studio\OefenenC-SharpPracticum\Week7a\bin\Debug\Week7a.exe
+D:\code\visual studio\OefenenC-SharpPracticum\Week7a\bin\Debug\Week7a.pdb
+D:\code\visual studio\OefenenC-SharpPracticum\Week7a\obj\Debug\Week7a.exe
+D:\code\visual studio\OefenenC-SharpPracticum\Week7a\obj\Debug\Week7a.pdb

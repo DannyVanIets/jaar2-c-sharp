@@ -1,0 +1,14 @@
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\bin\Debug\Debuggen.exe.config
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\bin\Debug\Debuggen.exe
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\bin\Debug\Debuggen.pdb
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\obj\Debug\Debuggen.csprojAssemblyReference.cache
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\obj\Debug\Debuggen.csproj.CoreCompileInputs.cache
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\obj\Debug\Debuggen.exe
+C:\Users\fj0049516\Documents\GitHub\odeon\week 2a\CSweek2a\Debuggen\obj\Debug\Debuggen.pdb
+D:\code\visual studio\lessen\CSweek2a\Debuggen\bin\Debug\Debuggen.exe.config
+D:\code\visual studio\lessen\CSweek2a\Debuggen\bin\Debug\Debuggen.exe
+D:\code\visual studio\lessen\CSweek2a\Debuggen\bin\Debug\Debuggen.pdb
+D:\code\visual studio\lessen\CSweek2a\Debuggen\obj\Debug\Debuggen.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\CSweek2a\Debuggen\obj\Debug\Debuggen.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\CSweek2a\Debuggen\obj\Debug\Debuggen.exe
+D:\code\visual studio\lessen\CSweek2a\Debuggen\obj\Debug\Debuggen.pdb

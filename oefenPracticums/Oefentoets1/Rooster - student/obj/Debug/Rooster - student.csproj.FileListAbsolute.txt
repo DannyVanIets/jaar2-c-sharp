@@ -1,0 +1,7 @@
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\bin\Debug\Rooster - student.exe.config
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\bin\Debug\Rooster - student.exe
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\bin\Debug\Rooster - student.pdb
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\obj\Debug\Rooster - student.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\obj\Debug\Rooster - student.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\obj\Debug\Rooster - student.exe
+D:\code\visual studio\lessen\Rooster - student\Rooster - student\obj\Debug\Rooster - student.pdb

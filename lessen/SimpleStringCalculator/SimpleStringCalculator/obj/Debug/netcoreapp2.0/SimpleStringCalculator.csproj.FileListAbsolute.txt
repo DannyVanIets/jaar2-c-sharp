@@ -1,0 +1,10 @@
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp2.0\SimpleStringCalculator.deps.json
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp2.0\SimpleStringCalculator.runtimeconfig.json
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp2.0\SimpleStringCalculator.runtimeconfig.dev.json
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp2.0\SimpleStringCalculator.dll
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp2.0\SimpleStringCalculator.pdb
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp2.0\SimpleStringCalculator.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp2.0\SimpleStringCalculator.AssemblyInfoInputs.cache
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp2.0\SimpleStringCalculator.AssemblyInfo.cs
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp2.0\SimpleStringCalculator.dll
+D:\code\visual studio\lessen\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp2.0\SimpleStringCalculator.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\bin\Debug\RestaurantApp.exe
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\bin\Debug\RestaurantApp.pdb
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\obj\Debug\RestaurantApp.csprojAssemblyReference.cache
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\obj\Debug\RestaurantApp.exe
+D:\code\visual studio\lessen\Rooster - student\RestaurantApp\obj\Debug\RestaurantApp.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\huiswerk\E2Verkeersplein\bin\Debug\E2Verkeersplein.exe.config
+D:\code\visual studio\huiswerk\E2Verkeersplein\bin\Debug\E2Verkeersplein.exe
+D:\code\visual studio\huiswerk\E2Verkeersplein\bin\Debug\E2Verkeersplein.pdb
+D:\code\visual studio\huiswerk\E2Verkeersplein\obj\Debug\E2Verkeersplein.csprojAssemblyReference.cache
+D:\code\visual studio\huiswerk\E2Verkeersplein\obj\Debug\E2Verkeersplein.csproj.CoreCompileInputs.cache
+D:\code\visual studio\huiswerk\E2Verkeersplein\obj\Debug\E2Verkeersplein.exe
+D:\code\visual studio\huiswerk\E2Verkeersplein\obj\Debug\E2Verkeersplein.pdb

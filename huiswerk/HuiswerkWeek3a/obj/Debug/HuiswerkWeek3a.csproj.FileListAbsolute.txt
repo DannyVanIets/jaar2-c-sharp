@@ -1,0 +1,7 @@
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\bin\Debug\HuiswerkWeek3a.exe.config
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\bin\Debug\HuiswerkWeek3a.exe
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\bin\Debug\HuiswerkWeek3a.pdb
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\obj\Debug\HuiswerkWeek3a.csprojAssemblyReference.cache
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\obj\Debug\HuiswerkWeek3a.csproj.CoreCompileInputs.cache
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\obj\Debug\HuiswerkWeek3a.exe
+D:\code\visual studio\huiswerk\HuiswerkWeek3a\obj\Debug\HuiswerkWeek3a.pdb

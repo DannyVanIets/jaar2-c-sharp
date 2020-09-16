@@ -1,0 +1,7 @@
+D:\code\visual studio\lessen\Bubblesort\bin\Debug\Bubblesort.exe.config
+D:\code\visual studio\lessen\Bubblesort\bin\Debug\Bubblesort.exe
+D:\code\visual studio\lessen\Bubblesort\bin\Debug\Bubblesort.pdb
+D:\code\visual studio\lessen\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+D:\code\visual studio\lessen\Bubblesort\obj\Debug\Bubblesort.exe
+D:\code\visual studio\lessen\Bubblesort\obj\Debug\Bubblesort.pdb
+D:\code\visual studio\lessen\Bubblesort\obj\Debug\Bubblesort.csprojAssemblyReference.cache

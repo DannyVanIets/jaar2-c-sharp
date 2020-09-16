@@ -1,0 +1,6 @@
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\bin\Debug\OefenenC-sharpPracticum.exe.config
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\bin\Debug\OefenenC-sharpPracticum.exe
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\bin\Debug\OefenenC-sharpPracticum.pdb
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\obj\Debug\week1b.csprojAssemblyReference.cache
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\obj\Debug\OefenenC-sharpPracticum.exe
+D:\code\visual studio\OefenenC-SharpPracticum\OefenenC-sharpPracticum\obj\Debug\OefenenC-sharpPracticum.pdb
